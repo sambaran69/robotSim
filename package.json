@@ -1,0 +1,19 @@
+{
+  "name": "robotsim",
+  "version": "1.0.0",
+  "description": "a simulation of a toy robot moving on a square tabletop",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sambaran69/robotSim.git"
+  },
+  "author": "Sambaran Roy <sambaranr@gmail.com>",
+  "license": "BSD",
+  "homepage": "https://github.com/sambaran69/robotSim",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
