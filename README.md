@@ -30,7 +30,7 @@ REPORT
 Before beginning work, a developer must set up the development environment on their machine including the necessary tools and frameworks to support the development process. The environment requirements are noted below:
 * [Node.js](http://nodejs.org/download/) - the application platform - download and run the Windows Installer (if using a different OS, download the appropriate installer).  This will install the Node.js JavaScript platform and engine as well as the Node Package Manager (npm).
 * [Git](http://git-scm.com/downloads) - distributed version control system (DVCS) - download and install the Git client for Windows (if using a different OS, download the appropriate installer).
-* [GitHub](https://github.com/) - MEDSEEK currently uses GitHub to manage the _MEDSEEK API_ source code.  GitHub is a hosted SCM solution and it requires an authenticated account.  You may use your own personal GitHub account.
+* [GitHub](https://github.com/) - This solution uses GitHub to manage the source code.  GitHub is a hosted SCM solution and it requires an authenticated account.  You may use your own personal GitHub account.
 
 ### Application Dependencies
 * [Node.js](http://nodejs.org/) - application platform built on Chrome's JavaScript runtime
@@ -47,6 +47,7 @@ The Simulator can be run in the following 2 ways:
   
   1. Launch the Simulator Console to enter commands - `node app`
   2. Pass Commands from a file to the Simulator console  - `node app -file SampleCommands.txt`
+
 
 ## License
 
